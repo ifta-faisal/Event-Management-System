@@ -38,7 +38,7 @@ The system integrates essential tools such as **vendor booking, customizable ser
 ![DFD Level 1](DFD.png)
 
 ### 📌 Use-Case Diagram
-![Use Case Diagram](Use Case.png)
+![Use Case Diagram](Use_Case.png)
 
 ### 📌 Activity Diagram
 ![Activity Diagram](Activity.png)
