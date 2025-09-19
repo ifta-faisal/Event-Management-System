@@ -1,9 +1,5 @@
 # AYOJOK – Wedding & Event Management System 🎉
 
-[![GitHub issues](https://img.shields.io/github/issues/your-username/ayojok)](https://github.com/your-username/ayojok/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/ayojok)](https://github.com/your-username/ayojok/network)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ayojok)](https://github.com/your-username/ayojok/stargazers)
-[![GitHub license](https://img.shields.io/github/license/your-username/ayojok)](https://github.com/your-username/ayojok/blob/main/LICENSE)
 
 AYOJOK is an all-in-one **wedding and event management platform** designed to simplify the complexities of event planning for clients, couples, vendors, and event organizers.  
 The system integrates essential tools such as **vendor booking, customizable service packages, online payments, digital invitations, budget tracking, and eco-friendly event planning** — all from a single dashboard.  
@@ -35,11 +31,20 @@ The system integrates essential tools such as **vendor booking, customizable ser
 
 ## 📊 System Design
 
-- **Context Diagram** – High-level system overview  
-- **DFD (Level 1)** – Data flow between modules  
-- **Use-Case Diagram** – User, Admin, and Vendor interactions  
-- **Activity & Swimlane Diagrams** – Workflow representation  
+### 📌 Context Diagram
+![Context Diagram](Context.png)
 
+### 📌 DFD (Level 1)
+![DFD Level 1](DFD.png)
+
+### 📌 Use-Case Diagram
+![Use Case Diagram](Use Case.png)
+
+### 📌 Activity Diagram
+![Activity Diagram](Activity.png)
+
+### 📌 Swimlane Diagram
+![Swimlane Diagram](Swimlane.png)
 ---
 
 ## 📋 Installation & Setup
